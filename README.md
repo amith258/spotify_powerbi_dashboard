@@ -41,4 +41,4 @@ Spotify Data (from API / Spotify Wrapped / CSV export)
 📧 Contact:[amithtraj2003@gmail.com](amithtraj2003@gmail.com)
 
 📷 Preview
-spotify_dashboard(spotify_dashboard)
+[https://github.com/amith258/spotify_powerbi_dashboard/blob/main/spotify_dashboard.png](https://github.com/amith258/spotify_powerbi_dashboard/blob/main/spotify_dashboard.png)
